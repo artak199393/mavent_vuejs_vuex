@@ -1,0 +1,270 @@
+@media (max-width: 1199px) {
+  .mavent-h1, .mavent-p, .pages, .logo-1,
+  .h1, .title, .text, .item img, .info-h1, .logo-2, 
+  .nkar > a > img, .object-text, .slider-slider, .callback-h1,
+  .callback-p, form label i, form label textarea,
+  form label button, .merged {
+    margin-left: 0!important; }
+    #app #produkcia .title .patuhan > a > p {
+      padding: 35px 0px 6px 0px;}
+      #app #produkcia .title .patuhan:nth-child(2) > a > p, 
+      #app #produkcia .title .patuhan:nth-child(4) > a > p, 
+      #app #produkcia .title .patuhan:nth-child(8) > a > p, 
+      #app #produkcia .title .patuhan:nth-child(10) > a > p {
+        padding: 35px 0px 6px 0px;}
+        #produkcia .title .text{
+          padding: 135px 116px 50px 116px;}
+          #app #produkcia .title .patuhan .item img {
+            height: 240px;}
+            #app #produkcia .title .patuhan:last-child > a > p {
+              padding: 0 37px 0 37px;}
+              #info .info-p > p {
+                padding: 40px 0 0 0px;}
+                #object .object-text {
+                  padding: 0 50px 24px 50px ;}
+                  #sliderObject .sliderObject{
+                    margin: 17px auto; }
+                    #sliderObject .slaq-left, #sliderObject .slaq-right{
+                      margin-top: 180px;}
+                      #contactItem{
+                        justify-content: space-around;}
+                        #contactItem .contact-name, .name {
+                          margin-left: 0; }
+                          #news #newsItem .nkar img {
+                            height: 250px;}
+                            #news #newsItem .nkar p {
+                              padding: 0 2px 0 2px; }
+                              #news #newsItem .nkar:nth-child(2) > p {
+                                padding: 0 12px 0 12px; } 
+                                #news #newsItem .nkar:nth-child(3) > p {
+                                  padding: 0 16px 0 20px; }
+                                  #news #newsItem .nkar:nth-child(4) > p {
+                                    padding: 0 28px 0 28px; }
+                                    #news #newsItem .nkar:last-child > p {
+                                      padding: 21px 17px 0 17px;}}
+
+@media (max-width: 1024px){
+  #app #produkcia .title .patuhan:last-child > a > p {
+    position: relative;
+    top: -164px; }
+    #news #newsItem .nkar:last-child > p {
+      padding: 21px 12px 0 12px; } }  
+
+@media (max-width: 991px) {
+  .ul-link li a {
+    margin-left: 5px!important;}
+    .ul-language li a {
+      margin-left: 5px!important;}
+      #produkcia .title .text {
+        padding: 135px 0px 50px 0px;}
+        #app #produkcia .title .patuhan .item img {
+          width: 100%;}
+          #app #produkcia .title .patuhan > a > p {
+            font-size: 12px;
+            letter-spacing: 0; }
+            #app #produkcia .title .patuhan > a > h1 {
+              font-size: 22px; }
+              #app #produkcia .title .patuhan:last-child > a > p {
+                font-size: 16px;
+                position: relative;
+                top: -166px;
+                padding: 0 26px 0 26px;}
+                #object .object-text {
+                  padding: 0 0px 24px 0px;
+                  font-size: 20px;}
+                  #sliderObject .slaq-left, #sliderObject .slaq-right{
+                    margin-top: 125px;
+                    max-width: 4%;}
+                    #news #newsItem .nkar img {
+                      height: 240px;
+                      width: 100%;}
+                      #news #newsItem .nkar p {
+                        font-size: 11px;
+                        letter-spacing: 0;
+                        padding: 40px 10px 0 10px;}
+                        #news #newsItem .nkar:nth-child(2) p {
+                          margin-left: 0;
+                          line-height: 22px;
+                          padding: 36px 10px 0 22px;}
+                          #news #newsItem .nkar:nth-child(3) p {
+                            line-height: 20px;
+                            padding: 45px 25px 0 26px;}
+                            #news #newsItem .nkar:nth-child(4) p {
+                              line-height: 20px;
+                              padding: 53px 28px 0 30px;}
+                              #news #newsItem .nkar:last-child p {
+                                line-height: 37px;
+                                font-size: 15px;
+                                margin-left: 0;
+                                padding: 30px 26px 0 26px;}
+                                #objectItem{
+                                  margin: -3px auto;}
+                                  #objectName{
+                                    justify-content: space-evenly;}
+                                    #objectName .name:nth-child(2) > p {
+                                      margin-left: 0;}
+                                      .info-p {
+                                        padding: 55px 0 30px 0px;}
+                                        .info-p2 {
+                                          padding: 8px 0 8px 0px;}
+                                          .info-p3 {
+                                            padding: 32px 0 34px 0px;} }
+
+@media (max-width: 768px){
+  #news #newsItem .nkar:last-child p {
+    padding: 30px 26px 0 26px; } }
+
+@media (max-width: 767px) {
+  #produkcia .title .text {
+    font-size: 15px;}
+    #app #produkcia .title .patuhan:last-child > a > p {
+      padding: 0 41px 0 41px;}
+      #app #produkcia .title.patuhan {
+        margin-top: 0; }
+        #object .object-text {
+          font-size: 15px;}
+          #news #newsItem .nkar {
+            margin-top: 0; }
+            #news #newsItem .nkar p {
+              font-size: 12px;
+              padding: 31px 20px 0 20px;}
+              #news #newsItem .nkar:nth-child(2) p {
+                line-height: 28px;
+                padding: 27px 5px 0 27px;}
+                #news #newsItem .nkar:nth-child(3) p {
+                  line-height: 24px;
+                  padding: 36px 35px 0 35px;}
+                  #news #newsItem .nkar:nth-child(4) p {
+                    line-height: 22px;
+                    padding: 36px 22px 0 30px;}
+                    #news #newsItem .nkar:last-child p {
+                      font-size: 18px;
+                      line-height: 35px;
+                      padding: 32px 23px 0 23px;}
+                      #sliderObject .slaq-left, #sliderObject .slaq-right {
+                        max-width: 3%;
+                        margin: 100px 10px 0 10px;} }
+
+@media (max-width: 575px) {
+  #app #produkcia .title .patuhan .item img {
+    height: 300px;}
+    #app #produkcia .title .patuhan > a > p,
+    #app #produkcia .title .patuhan:nth-child(2) > a > p, 
+    #app #produkcia .title .patuhan:nth-child(4) > a > p, 
+    #app #produkcia .title .patuhan:nth-child(8) > a > p, 
+    #app #produkcia .title .patuhan:nth-child(10) > a > p {
+      font-size: 18px;
+      padding: 35px 81px 6px 81px;}
+      #app #produkcia .title .patuhan:last-child > a > p {
+        font-size: 20px;
+        position: relative;
+        top: -198px;
+        padding: 0px 165px 0 165px;}
+        #app #produkcia .title .patuhan > a > h1 {
+          font-size: 36px; }
+          #news #newsItem .nkar img {
+            height: 300px;}
+          #news #newsItem .nkar p {
+            font-size: 15px;
+            letter-spacing: 1px;
+            padding: 8px 119px 0 119px;}
+            #news #newsItem .nkar:nth-child(2) p {
+              line-height: 31px;
+              padding: 3px 94px 0 113px;}
+              #news #newsItem .nkar:nth-child(3) p {
+                line-height: 29px;
+                padding: 3px 146px 0 146px;}
+                #news #newsItem .nkar:nth-child(4) p {
+                  line-height: 24px;
+                  padding: 0 134px 0 140px;}
+                  #news #newsItem .nkar:last-child p {
+                    font-size: 20px;
+                    line-height: 41px;
+                    letter-spacing: 2px;
+                    padding: 0 130px 0 130px;}
+                    #sliderObject .sliderObject{
+                      max-width: 75%; }
+                      #sliderObject .slaq-left, #sliderObject .slaq-right{
+                        display: none;}
+                        #app #objectName{
+                          margin-left: 65px;}
+                          .contact-name{
+                            margin-top: 0;}
+                            .third-p{
+                              padding-bottom: 34px;} }
+
+@media (max-width: 414px) {
+  #app #produkcia .title .patuhan > a > p, 
+  #app #produkcia .title .patuhan:nth-child(2) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(4) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(8) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(10) > a > p {
+    padding: 35px 9px 6px 9px;}
+    #app #produkcia .title .patuhan:last-child > a > p {
+      padding: 0px 93px 0 93px;}
+      #app #objectName{
+        margin-left: 0px;}
+        form label i {
+          width: 100%;
+          -webkit-border-radius: 5px;
+                  border-radius: 5px;
+          margin-bottom: 12px; }
+          #callback form label input {
+            width: 100%;
+            -webkit-border-radius: 5px;
+                    border-radius: 5px;
+            margin-left: 0;
+            padding: 12px 0 12px 8px; }
+            #callback form label textarea, #callback form label button {
+              width: 100%; }
+              #news #newsItem .nkar p {
+                padding: 5px 43px 0 43px;}
+                #news #newsItem .nkar:nth-child(2) p {
+                  padding: 3px 40px 0 40px;}
+                  #news #newsItem .nkar:nth-child(3) p {
+                    padding: 0px 66px 0 66px;}
+                    #news #newsItem .nkar:nth-child(4) p {
+                      padding: 3px 74px 0 74px;}
+                      #news #newsItem .nkar:last-child p {
+                        padding: 0 58px 0 58px;} }
+
+@media (max-width: 375px) {
+  #app #produkcia .title .patuhan:last-child > a > p {
+    padding: 0px 73px 0 73px;}
+    #news #newsItem .nkar:last-child p {
+      padding: 0 38px 0 38px;}
+}
+
+@media (max-width: 360px) {
+  #app #produkcia .title .patuhan:last-child > a > p {
+    padding: 0px 66px 0 66px;}
+    #news #newsItem .nkar:last-child p {
+      padding: 0 51px 0 51px;
+      font-size: 16px;}
+      #news #newsItem .nkar:nth-child(2) p {
+        padding: 3px 14px 0 14px;}
+}
+
+
+@media (max-width: 320px) {
+  #app #produkcia .title .patuhan > a > p, 
+  #app #produkcia .title .patuhan:nth-child(2) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(4) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(8) > a > p, 
+  #app #produkcia .title .patuhan:nth-child(10) > a > p {
+    font-size: 16px;
+    padding: 35px 0px 6px 0px;}
+    #app #produkcia .title .patuhan:last-child > a > p {
+      padding: 0px 46px 0 46px;}
+      #news #newsItem .nkar p {
+        padding: 5px 16px 0 0px;}
+        #news #newsItem .nkar:nth-child(2) p {
+          padding: 0 27px 0 28px;}
+          #news #newsItem .nkar:nth-child(3) p {
+            padding: 0px 50px 0 28px;}
+            #news #newsItem .nkar:nth-child(4) p {
+              padding: 5px 36px 0 31px;}
+                #news #newsItem .nkar:last-child p {
+                  padding: 2px 46px 0 46px;
+                  font-size: 13px;}
+}

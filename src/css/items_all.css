@@ -1,0 +1,96 @@
+@media (max-width: 1199px) {
+  #itemAll .title .text{
+    padding: 135px 116px 50px 116px;
+  }
+  #itemAll .title .patuhan .item img {
+    height: 240px;
+  }
+  #itemAll .title .patuhan > a > p {
+    padding: 35px 0px 6px 0px;
+  }
+} 
+@media (max-width: 991px) {
+  #itemAll .title .text {
+    padding: 135px 0px 50px 0px;
+  }
+  #itemAll .title .patuhan .item img {
+    width: 100%;
+  }
+  #itemAll .title .patuhan {
+    margin-bottom: 0; 
+  }
+  #itemAll .title .patuhan > a > p {
+    font-size: 11px;
+    letter-spacing: 0; 
+  }
+  #itemAll .title .patuhan > a > h1 {
+    font-size: 26px;
+  }
+  #itemAll .title .patuhan:nth-child(2) > a > p,
+  #itemAll .title .patuhan:nth-child(4) > a > p,
+  #itemAll .title .patuhan:nth-child(8) > a > p,
+  #itemAll .title .patuhan:nth-child(9) > a > p,
+  #itemAll .title .patuhan:nth-child(10) > a > p, 
+  #itemAll .title .patuhan:nth-child(5) > a > p,
+  #itemAll .title .patuhan:nth-child(6) > a > p, 
+  #itemAll .title .patuhan:nth-child(7) > a > p {
+    padding: 35px 16px 6px 17px; }
+  #itemAll .title .patuhan:last-child > a > p {
+    padding: 32px 2px 6px 8px;}
+}
+
+@media (max-width: 767px) {
+  #app #itemAll .text-first {
+    margin-left: 0;
+    letter-spacing: 0;
+  }
+  #itemAll .title .text {
+    font-size: 15px;
+  }
+  #itemAll .title .patuhan > a > h1 {
+    margin-left: 16px;
+  }
+  #itemAll .title .patuhan > a > p,
+  #itemAll .title .patuhan:last-child > a > p {
+    padding: 35px 11px 6px 11px;
+  }
+}
+
+@media (max-width: 575px) {
+  #itemAll .title .patuhan {
+    margin-bottom: 24px;
+  }
+  #itemAll .title .patuhan .item img {
+    height: 300px;}
+  #itemAll .title .patuhan > a > p,
+  #itemAll .title .patuhan:last-child > a > p {
+    font-size: 18px;
+    padding: 35px 81px 6px 81px;
+  }
+  #itemAll .title .patuhan > a > h1{
+    font-size: 36px;
+  }
+  #itemAll .title .patuhan:nth-child(6) > a > p,
+  #itemAll .title .patuhan:nth-child(7) > a > p,
+  #itemAll .title .patuhan:nth-child(4) > a > p{
+    padding: 35px 21px 6px 38px; }  }
+
+@media (max-width: 414px){
+  #app #itemAll h1 {
+    font-size: 46px;
+    margin-left: 0;}
+    #app #itemAll .text-first {
+      font-size: 18px; }
+      #itemAll .title .patuhan > a > p, 
+      #itemAll .title .patuhan:last-child > a > p {
+        padding: 35px 9px 6px 9px; } }
+
+@media (max-width: 360px){
+  #itemAll .title .patuhan > a > p, 
+  #itemAll .title .patuhan:last-child > a > p {
+    padding: 35px 0px 6px 0px; } }
+
+@media (max-width: 320px){
+  #itemAll .title .patuhan > a > p, 
+  #itemAll .title .patuhan:last-child > a > p {
+    font-size: 15px; } }

@@ -1,0 +1,76 @@
+@media (max-width: 1450px) {
+  #iteminfo .iteminfo-info button {
+    width: 55%; } }
+
+@media (max-width: 1200px) {
+  #app #iteminfo {
+    padding: 180px 0 76px 0px; }
+    #itemSlider #carousel3 #itemImg {
+      height: 320px; }
+      #app #iteminfo .iteminfo-info {
+        margin-left: 0; }
+        #iteminfo .iteminfo-info .icons {
+          margin-right: 0; }
+          #iteminfo .iteminfo-info button {
+            width: 60%; }
+            #app #anotheritems .title {
+              margin-left: 0; } }
+
+@media (max-width: 1199px) {
+  #app #anotheritems .patuhan .item img {
+    height: 240px; }
+    #app #anotheritems .patuhan > a > p {
+      padding: 35px 0px 6px 0px; } }
+
+@media (max-width: 991px) {
+  #itemSlider .itemSlider {
+    max-width: 100%;
+    margin: 1px 0 0 0px; }
+    #iteminfo .iteminfo-info button {
+      width: 80%; }
+      #iteminfo .iteminfo-info button i {
+        margin: 0 15px 0 0; }
+        #app #anotheritems .patuhan .item img {
+          width: 100%; }
+          #app #anotheritems .patuhan > a > p {
+            font-size: 11px;}
+            #app #anotheritems .patuhan > a > h1 {
+              font-size: 26px;
+              margin: 0 0 16px 10px;} }
+
+@media (max-width: 767px) {
+  #app #iteminfo {
+    padding-top: 80px; }
+    #app #iteminfo .iteminfo-info {
+      margin-top: 55px; }
+      #app #iteminfo .iteminfo-info button {
+        width: 100%; } }
+
+@media (max-width: 575px) {
+  #app #anotheritems .patuhan .item img {
+    height: 300px;}
+    #app #anotheritems .patuhan > a > p {
+      font-size: 26px;}
+      #app #anotheritems .patuhan > a > h1 {
+        font-size: 31px;
+        margin-bottom: 45px;} }
+
+@media (max-width: 414px){
+  #app #iteminfo {
+    padding-top: 100px;}
+    #app #anotheritems .patuhan > a > p {
+      font-size: 18px;}
+      #app #anotheritems .patuhan > a > h1 {
+        font-size: 26px;}
+}
+
+@media (max-width: 360px) {
+  #app #iteminfo .iteminfo-info h1 {
+    font-size: 29px; }
+    #iteminfo .iteminfo-info ul li {
+      font-size: 13px !important;
+      letter-spacing: 0 !important; }
+      #app #iteminfo .iteminfo-info button {
+        font-size: 13px; }
+        #app #anotheritems .patuhan > a > p{
+          font-size: 16px;} }

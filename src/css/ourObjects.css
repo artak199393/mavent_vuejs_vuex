@@ -1,0 +1,48 @@
+@media (max-width: 1199px){
+  #app #ourObjects .title p {
+    margin: 47px 42px 0 42px;}
+    #ourObjects #ourObjectsItem #ourObjectNkar .nkar img{
+      height: 250px;} }
+
+@media (max-width: 991px) {
+  #app #ourObjects .title p {
+    font-size: 22px;
+    margin: 47px 0 0 0;}
+    #ourObjects #ourObjectsItem #ourObjectNkar .nkar p {
+      padding: 0px 31px 0 31px;} }
+
+@media (max-width: 767px) {
+  #app #ourObjects .title p {
+    font-size: 16px;}
+    #ourObjectsItem .nkar #ourObjectNkar p {
+      font-size: 12px;
+      letter-spacing: 0px;
+      padding: 0px 27px 0 27px;} 
+      #ourObjectsItem .nkar #ourObjectNkar img {
+        height: 260px;
+        width: 95%;
+        margin: 5px -15px 0 0px;} }
+
+@media (max-width: 575px) {
+  #ourObjectsItem .nkar #ourObjectNkar img {
+    height: 315px;
+    width: 100%;
+    margin: 5px 0px 5px 0px;}
+    #ourObjectsItem .nkar #ourObjectNkar p {
+      font-size: 18px;
+      letter-spacing: 1px;
+      margin-left: 0;
+      padding: 0px 120px 0 120px;} }
+
+@media (max-width: 414px) {
+  #ourObjectsItem .nkar #ourObjectNkar p {
+    padding: 0px 55px 0 54px;} }
+
+@media (max-width: 360px) {
+   #ourObjectsItem .nkar #ourObjectNkar p {
+    padding: 0px 44px 0 44px;
+    font-size: 16px;} }
+
+@media (max-width: 320px){
+  #app #ourObjects .title h1 {
+    font-size: 46px;} }
